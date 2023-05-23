@@ -1,0 +1,5 @@
+﻿  A2.cpp
+C:\Users\KB\Desktop\first\first\A2.cpp(7,2): error C2664: 'int printf(const char *const ,...)': 인수 1을(를) 'int'에서 'const char *const '(으)로 변환할 수 없습니다.
+C:\Users\KB\Desktop\first\first\A2.cpp(7,11): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(950,37): message : 'printf' 선언을 참조하십시오.
+C:\Users\KB\Desktop\first\first\A2.cpp(7,2): message : 인수 목록 '(int)'을(를) 일치시키는 동안
